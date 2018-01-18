@@ -1,0 +1,10 @@
+ Validation Controls in ASP.NET
+ 
+1- RequiredFieldValidator Control
+2- CompareValidator Control
+3- RangeValidator Control
+4- RegularExpressionValidator Control
+5- CustomFieldValidator Control
+6- ValidationSummary
+
+
